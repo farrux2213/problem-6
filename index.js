@@ -21,3 +21,4 @@ console.log(yigindi);
 console.log(2 * 9);
 console.log(2 * 9);
 console.log(2 * 9);
+console.log(2 * 9);
